@@ -7,7 +7,15 @@ This project involves building a Convolutional Neural Network (CNN) for facial e
    pip install numpy pandas matplotlib seaborn opencv-python tensorflow scikit-learn kaggle
    ```
 
-2.
+2. Download the dataset (link to the datsset: ****)
+
+3. Upon running the code it saves a file named `model.keras` (this file stores the trained model)
+
+4. Enter the path of the image
+
+5. The following image shows an example output:
+
+   
 
 ## Overview:
 The code is used for building, training and evaluating a Convolutional Neural Network (CNN) model for facial emotion recognition using the FER-2013 dataset. Here's an overview of the various steps and components involved:
