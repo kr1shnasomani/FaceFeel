@@ -7,7 +7,7 @@ This project involves building a Convolutional Neural Network (CNN) for facial e
    pip install numpy pandas matplotlib seaborn opencv-python tensorflow scikit-learn kaggle
    ```
 
-2. Download the dataset (link to the datsset: ****)
+2. Download the dataset (link to the datsset: **https://www.kaggle.com/datasets/msambare/fer2013**)
 
 3. Upon running the code it saves a file named `model.keras` (this file stores the trained model)
 
