@@ -2,6 +2,12 @@
 This project involves building a Convolutional Neural Network (CNN) for facial emotion recognition using the FER-2013 dataset. It preprocesses images, trains the model, evaluates accuracy, visualizes performance and includes a prediction function to classify emotions from images with confidence scores.
 
 ## Execution Guide:
+1. Run the following command line in the terminal:
+   ```
+   pip install numpy pandas matplotlib seaborn opencv-python tensorflow scikit-learn kaggle
+   ```
+
+2.
 
 ## Overview:
 The code is used for building, training and evaluating a Convolutional Neural Network (CNN) model for facial emotion recognition using the FER-2013 dataset. Here's an overview of the various steps and components involved:
