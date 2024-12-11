@@ -15,7 +15,19 @@ This project involves building a Convolutional Neural Network (CNN) for facial e
 
 5. The following image shows an example output:
 
-   
+   ![image](https://github.com/user-attachments/assets/4ff75e7e-3c36-4f8c-b1d0-13ea65d6ecbf)
+
+   ![image](https://github.com/user-attachments/assets/3a3863e0-24c7-41ce-9f4e-169e846e6f93)
+
+   ![image](https://github.com/user-attachments/assets/92b42c59-ee92-4c9b-8adb-5cd66eda3d1a)
+
+   ![image](https://github.com/user-attachments/assets/390e1f75-47a0-4053-b7c9-704366c38978)
+
+   ![image](https://github.com/user-attachments/assets/2ee52932-70d5-4cb0-89c5-d815290ffe4f)
+
+   ![image](https://github.com/user-attachments/assets/9213e088-7684-4ad7-aa8e-357d81d45713)
+
+   ![image](https://github.com/user-attachments/assets/3c9ae004-a7fc-49fc-bf02-8af4b5873759)
 
 ## Overview:
 The code is used for building, training and evaluating a Convolutional Neural Network (CNN) model for facial emotion recognition using the FER-2013 dataset. Here's an overview of the various steps and components involved:
