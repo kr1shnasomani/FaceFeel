@@ -11,9 +11,15 @@ This project involves building a Convolutional Neural Network (CNN) for facial e
 
 3. Upon running the code it saves a file named `model.keras` (this file stores the trained model)
 
-4. Enter the path of the image
+4. Enter the path of the image and the code will provide the prediction according to it
 
-5. The following image shows an example output:
+## Accuracy & Loss Over Epochs:
+
+![image](https://github.com/user-attachments/assets/e964b015-0a9a-4a42-86d3-0ce0aac2c6de)
+
+![image](https://github.com/user-attachments/assets/b8bee9f3-74f6-4582-b896-749452a529d2)
+
+## Model Prediction:
 
    ![image](https://github.com/user-attachments/assets/4ff75e7e-3c36-4f8c-b1d0-13ea65d6ecbf)
 
