@@ -1,4 +1,4 @@
-# Facial Emotion Recognition
+<h1 align="center">FaceFeel</h1>
 This project involves building a Convolutional Neural Network (CNN) for facial emotion recognition using the FER-2013 dataset. It preprocesses images, trains the model, evaluates accuracy, visualizes performance and includes a prediction function to classify emotions from images with confidence scores.
 
 ## Execution Guide:
