@@ -4,7 +4,7 @@ This project involves building a Convolutional Neural Network (CNN) for facial e
 ## Execution Guide:
 1. Run the following command line in the terminal:
    ```
-   pip install numpy pandas matplotlib seaborn opencv-python tensorflow scikit-learn kaggle
+   pip install numpy pandas matplotlib opencv-python tensorflow scikit-learn
    ```
 
 2. Download the dataset (link to the datsset: **https://www.kaggle.com/datasets/msambare/fer2013**)
